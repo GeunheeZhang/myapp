@@ -8,8 +8,10 @@
 </head>
 <body>
 <%
-   String strName = "ȫ�浿";
+    String strName = "홍길동";
+	String strName2 = "장근희";
 %>
-�� �̸��� <%=strName%> �Դϴ�.
+나의 이름은 <%=strName %> 입니다.<br/>
+나의 이름2는 <%=strName2 %> 입니다.<br/>
 </body>
 </html>
