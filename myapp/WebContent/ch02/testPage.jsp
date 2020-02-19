@@ -8,12 +8,14 @@
 </head>
 <body>
 <%
-    String strName = "홍길동";
+	String strName = "홍길동";
 	String strName2 = "장근희";
 	String strName3 = "장우진";
+	String strName4 = "장우주";
 %>
 나의 이름은 <%=strName %> 입니다.<br/>
 나의 이름2는 <%=strName2 %> 입니다.<br/>
 나의 이름3은 <%=strName3 %> 입니다.<br/>
+나의 이름4은 <%=strName4 %> 입니다.<br/>
 </body>
 </html>
